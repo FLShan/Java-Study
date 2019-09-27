@@ -1,1 +1,5 @@
-test
+{
+  "pid": "0",
+  "title": "test",
+  "config": "{\"gridItems\":[{\"i\":\"d384929f-afe8-a6424c97\",\"type\":\"bar\",\"x\":1,\"y\":0,\"w\":4,\"h\":8,\"isLink\":false,\"cmpt\":{\"filter\":{\"date\":[],\"place\":[],\"aircraft\":[],\"airline\":[],\"flight\":[],\"people\":[],\"weather\":[]},\"x\":{\"list\":[{\"dimension\":\"month\",\"dimensionName\":\"月\",\"custom\":{\"id\":\"\",\"colName\":\"\",\"name\":\"\",\"step\":\"\",\"maxNum\":\"\",\"minNum\":\"\",\"filterNull\":true},\"filter\":{\"contrast\":[\"2019-01\",\"2019-03\",\"2019-02\"],\"sortarr\":[{\"name\":\"2019-01\",\"isShow\":true},{\"name\":\"2019-03\",\"isShow\":true},{\"name\":\"2019-02\",\"isShow\":true}]},\"xsort\":\"\",\"sort\":{\"order\":\"\",\"id\":\"\",\"aggregation\":{\"name\":\"\",\"val\":\"\"},\"topN\":\"\"}}]},\"y\":{\"list\":[{\"id\":\"A2B50F2A4D90488B9A6067C8923F1AFF\",\"colKey\":\"KPI_实际全程油耗\",\"colName\":\"实际全程油耗\",\"colUnit\":\"公斤\",\"aggregation\":\"avg\",\"aggregationName\":\"求平均\",\"p\":100,\"type\":\"bar\",\"color\":\"#27727b\",\"position\":\"left\",\"filter\":[],\"sortid\":\"\",\"order\":\"\",\"topN\":\"\"}]},\"style\":{\"isZoom\":false,\"isStack\":false}}}]}"
+}
